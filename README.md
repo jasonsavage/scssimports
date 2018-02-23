@@ -9,7 +9,7 @@ Add the following code to the scrips section of your package.json file:
 ```json
 // package.json
 {
-	scripts: {
+	"scripts": {
 		"scssimports": "node scripts/scssimports.js \"../src/assets/scss/main.scss.tpl\""
 	}
 }
